@@ -1,0 +1,2037 @@
+{
+  "table_of_contents": [
+    {
+      "title": "A review on the impact of mining operation: Monitoring, assessment and\nmanagement",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          38.372732400894165,
+          92.70335382223129
+        ],
+        [
+          524.7882080078125,
+          91.06077569723129
+        ],
+        [
+          524.7882080078125,
+          127.8978271484375
+        ],
+        [
+          38.372732400894165,
+          127.99178984761238
+        ]
+      ]
+    },
+    {
+      "title": "A review on the impact of mining operation: Monitoring, assessment\nand management",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          36.43995559215546,
+          166.18352282047272
+        ],
+        [
+          448.9087953567505,
+          166.18352282047272
+        ],
+        [
+          448.9087953567505,
+          198.44216752052307
+        ],
+        [
+          36.43995559215546,
+          198.44216752052307
+        ]
+      ]
+    },
+    {
+      "title": "ABSTRACT",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          199.01532649993896,
+          313.4745659828186
+        ],
+        [
+          259.46490597724915,
+          313.4745659828186
+        ],
+        [
+          259.46490597724915,
+          322.60888671875
+        ],
+        [
+          199.01532649993896,
+          322.60888671875
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          37.09570434689522,
+          498.3886413574219
+        ],
+        [
+          97.32962799072266,
+          497.25449621677393
+        ],
+        [
+          97.32962799072266,
+          506.35882568359375
+        ],
+        [
+          35.93164184689522,
+          507.6191934347152
+        ]
+      ]
+    },
+    {
+      "title": "(see Fig. 1).",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          37.379077792167664,
+          54.90627788007259
+        ],
+        [
+          78.84195709228516,
+          54.90627788007259
+        ],
+        [
+          78.84195709228516,
+          63.02239990234375
+        ],
+        [
+          37.379077792167664,
+          63.02239990234375
+        ]
+      ]
+    },
+    {
+      "title": "O. Agboola et al. Results in Engineering 8 (2020) 100181",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          37.58742141723633,
+          35.6500499099493
+        ],
+        [
+          557.6643676757812,
+          35.6500499099493
+        ],
+        [
+          557.6643676757812,
+          43.08203125
+        ],
+        [
+          37.58742141723633,
+          43.08203125
+        ]
+      ]
+    },
+    {
+      "title": "Table 1",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          37.52953681349754,
+          55.94171142578125
+        ],
+        [
+          64.37935170531273,
+          54.73909255862235
+        ],
+        [
+          64.37935170531273,
+          63.1148681640625
+        ],
+        [
+          37.52953681349754,
+          63.34043157100677
+        ]
+      ]
+    },
+    {
+      "title": "Table 2",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          37.58740234375,
+          209.8895199894905
+        ],
+        [
+          65.43585529923439,
+          209.8895199894905
+        ],
+        [
+          64.27179279923439,
+          218.56683349609375
+        ],
+        [
+          36.88279792666435,
+          218.56683349609375
+        ]
+      ]
+    },
+    {
+      "title": "Table 3",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          37.58740234375,
+          443.42514121532435
+        ],
+        [
+          65.06653952598572,
+          443.42514121532435
+        ],
+        [
+          65.06653952598572,
+          450.93134272098536
+        ],
+        [
+          37.58740234375,
+          450.93134272098536
+        ]
+      ]
+    },
+    {
+      "title": "Table 4",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          37.58740234375,
+          55.637584254145615
+        ],
+        [
+          65.47582909464836,
+          55.637584254145615
+        ],
+        [
+          65.47582909464836,
+          63.1148681640625
+        ],
+        [
+          37.58740234375,
+          63.1148681640625
+        ]
+      ]
+    },
+    {
+      "title": "Table 5",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          36.71409936249256,
+          278.172356903553
+        ],
+        [
+          64.31918674707413,
+          278.172356903553
+        ],
+        [
+          64.31918674707413,
+          286.3148498535156
+        ],
+        [
+          36.71409936249256,
+          286.3148498535156
+        ]
+      ]
+    },
+    {
+      "title": "2. Impact and mechanism of mining to the environment",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          37.465632915496826,
+          409.71226048469543
+        ],
+        [
+          253.1662139892578,
+          409.71226048469543
+        ],
+        [
+          253.1662139892578,
+          417.9178161621094
+        ],
+        [
+          37.465632915496826,
+          417.9178161621094
+        ]
+      ]
+    },
+    {
+      "title": "Table 6",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          37.46062397956848,
+          55.94171142578125
+        ],
+        [
+          62.57561492919922,
+          55.94171142578125
+        ],
+        [
+          62.57561492919922,
+          63.14043152332305
+        ],
+        [
+          37.46062397956848,
+          63.14043152332305
+        ]
+      ]
+    },
+    {
+      "title": "Table 7",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          37.28555989265442,
+          406.991956949234
+        ],
+        [
+          65.29551184177399,
+          406.991956949234
+        ],
+        [
+          65.29551184177399,
+          414.9647936820984
+        ],
+        [
+          37.28555989265442,
+          414.9647936820984
+        ]
+      ]
+    },
+    {
+      "title": "Table 8",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          305.1278223991394,
+          54.88933514058589
+        ],
+        [
+          331.52655029296875,
+          54.88933514058589
+        ],
+        [
+          331.52655029296875,
+          63.1148681640625
+        ],
+        [
+          305.1278223991394,
+          63.1148681640625
+        ]
+      ]
+    },
+    {
+      "title": "Table 9",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          305.53709864616394,
+          373.8187255859375
+        ],
+        [
+          331.52655029296875,
+          373.8187255859375
+        ],
+        [
+          331.52655029296875,
+          382.0617096424103
+        ],
+        [
+          305.53709864616394,
+          382.0617096424103
+        ]
+      ]
+    },
+    {
+      "title": "2.1. Remediation principles",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          306.59759521484375,
+          326.91784888505936
+        ],
+        [
+          400.6826181411743,
+          326.91784888505936
+        ],
+        [
+          400.6826181411743,
+          335.65069580078125
+        ],
+        [
+          306.59759521484375,
+          335.65069580078125
+        ]
+      ]
+    },
+    {
+      "title": "2.1.1. Prediction of life-cycle assessment of waste material",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          306.32861709594727,
+          348.01799589395523
+        ],
+        [
+          502.6151747703552,
+          348.01799589395523
+        ],
+        [
+          502.6151747703552,
+          356.570068359375
+        ],
+        [
+          306.32861709594727,
+          356.570068359375
+        ]
+      ]
+    },
+    {
+      "title": "2.1.2. Development of precautionary measure, design and discarding\noperation practices for mine waste",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          306.59515380859375,
+          651.9706115722656
+        ],
+        [
+          537.5472452640533,
+          651.9706115722656
+        ],
+        [
+          537.5472452640533,
+          670.7464448213577
+        ],
+        [
+          306.59515380859375,
+          670.7464448213577
+        ]
+      ]
+    },
+    {
+      "title": "2.1.3. Dump rehabilitation in working period and after the closure period",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          36.90599977970123,
+          399.6379088163376
+        ],
+        [
+          283.5066794157028,
+          399.6379088163376
+        ],
+        [
+          283.5066794157028,
+          408.22052001953125
+        ],
+        [
+          36.90599977970123,
+          408.22052001953125
+        ]
+      ]
+    },
+    {
+      "title": "2.1.4. Monitoring of life-cycle of the vadose and saturated zones contained\nin the dump area",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          306.44524359703064,
+          473.498291015625
+        ],
+        [
+          558.2614333629608,
+          472.3977463245391
+        ],
+        [
+          557.0973708629608,
+          491.89990234375
+        ],
+        [
+          305.28118109703064,
+          491.93764686584467
+        ]
+      ]
+    },
+    {
+      "title": "2.2. Trend in the modern process for mine dump remediation",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          36.698644042015076,
+          420.9116005897522
+        ],
+        [
+          242.87205970287323,
+          420.9116005897522
+        ],
+        [
+          242.87205970287323,
+          429.76397705078125
+        ],
+        [
+          36.698644042015076,
+          429.76397705078125
+        ]
+      ]
+    },
+    {
+      "title": "3. Mine dump pollution monitoring/Mine dump design",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          305.86189794540405,
+          242.6914681792259
+        ],
+        [
+          517.8085918426514,
+          242.6914681792259
+        ],
+        [
+          517.8085918426514,
+          251.29736328125
+        ],
+        [
+          305.86189794540405,
+          251.29736328125
+        ]
+      ]
+    },
+    {
+      "title": "3.1. Mine dump management strategies for some selected countries",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          37.58740234375,
+          634.8501586914062
+        ],
+        [
+          261.6443614959717,
+          634.2638521194458
+        ],
+        [
+          260.4802989959717,
+          642.8203582763672
+        ],
+        [
+          36.945920288562775,
+          643.6053593158722
+        ]
+      ]
+    },
+    {
+      "title": "contending activities [98].",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          37.290169179439545,
+          55.05224609375
+        ],
+        [
+          130.3055419921875,
+          55.05224609375
+        ],
+        [
+          130.3055419921875,
+          63.02239990234375
+        ],
+        [
+          37.290169179439545,
+          63.02239990234375
+        ]
+      ]
+    },
+    {
+      "title": "3.2. Minimization of AMD by controlling waste rock dumps",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          37.28441423177719,
+          483.8328176736831
+        ],
+        [
+          238.69117903709412,
+          483.8328176736831
+        ],
+        [
+          238.69117903709412,
+          492.57867431640625
+        ],
+        [
+          37.28441423177719,
+          492.57867431640625
+        ]
+      ]
+    },
+    {
+      "title": "3.2.1. Reuse and recycling of mine waste",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          306.5132372379303,
+          201.48846435546875
+        ],
+        [
+          445.86112427711487,
+          200.84299629926682
+        ],
+        [
+          445.86112427711487,
+          209.4586181640625
+        ],
+        [
+          306.5132372379303,
+          210.15213245153427
+        ]
+      ]
+    },
+    {
+      "title": "3.2.2. Recovery of Mineral and Energy Resources from mine wastes",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          305.99788522720337,
+          724.4555915594101
+        ],
+        [
+          537.3961601257324,
+          722.9048103094101
+        ],
+        [
+          537.3961601257324,
+          732.4998931884766
+        ],
+        [
+          305.99788522720337,
+          732.8577705621719
+        ]
+      ]
+    },
+    {
+      "title": "3.2.3. Different management techniques for waste rock dumps, stockpiles\nand tailings",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          306.59454345703125,
+          431.6553039550781
+        ],
+        [
+          551.0450842380524,
+          431.15694141387934
+        ],
+        [
+          549.8810217380524,
+          450.0569152832031
+        ],
+        [
+          305.5431377887726,
+          451.31984257698053
+        ]
+      ]
+    },
+    {
+      "title": "3.2.4. Mining act and regulations",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          37.03665840625763,
+          347.4749526977539
+        ],
+        [
+          150.74371361732483,
+          347.4749526977539
+        ],
+        [
+          150.74371361732483,
+          355.951171875
+        ],
+        [
+          37.03665840625763,
+          355.951171875
+        ]
+      ]
+    },
+    {
+      "title": "3.3. Prediction for the control of mineral exploration and environmental\nassessment",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          305.5070450305939,
+          306.67430406808853
+        ],
+        [
+          548.0255839824677,
+          306.67430406808853
+        ],
+        [
+          548.0255839824677,
+          325.16802978515625
+        ],
+        [
+          305.5070450305939,
+          325.16802978515625
+        ]
+      ]
+    },
+    {
+      "title": "4. Radioactivity in mines",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          37.55284968018532,
+          55.045623630285256
+        ],
+        [
+          135.18170166015625,
+          55.045623630285256
+        ],
+        [
+          135.18170166015625,
+          63.0208740234375
+        ],
+        [
+          37.55284968018532,
+          63.0208740234375
+        ]
+      ]
+    },
+    {
+      "title": "4.1. Monitoring of radioactivity",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          37.36936631798744,
+          473.66253602504725
+        ],
+        [
+          144.4186531305313,
+          473.66253602504725
+        ],
+        [
+          144.4186531305313,
+          482.0906982421875
+        ],
+        [
+          37.36936631798744,
+          482.0906982421875
+        ]
+      ]
+    },
+    {
+      "title": "5. Global perspectives on the management of mine waste",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          306.5949401855469,
+          390.0748682022095
+        ],
+        [
+          526.9546246528625,
+          390.0748682022095
+        ],
+        [
+          526.9546246528625,
+          398.074462890625
+        ],
+        [
+          306.5949401855469,
+          398.074462890625
+        ]
+      ]
+    },
+    {
+      "title": "6. Conclusion",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          306.48009300231934,
+          662.3965759277344
+        ],
+        [
+          361.54371643066406,
+          662.3965759277344
+        ],
+        [
+          361.54371643066406,
+          670.785299539566
+        ],
+        [
+          306.48009300231934,
+          670.785299539566
+        ]
+      ]
+    },
+    {
+      "title": "Declaration of competing interest",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          306.5951843261719,
+          520.552490234375
+        ],
+        [
+          434.69503378868103,
+          519.0293712615967
+        ],
+        [
+          434.69503378868103,
+          528.5226745605469
+        ],
+        [
+          306.5951843261719,
+          528.5226745605469
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgement",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          306.59521484375,
+          584.2750244140625
+        ],
+        [
+          376.8370990753174,
+          583.1402242183685
+        ],
+        [
+          376.10650634765625,
+          592.2452239990234
+        ],
+        [
+          306.08712244033813,
+          592.5939888954163
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          306.59521484375,
+          637.5661773681641
+        ],
+        [
+          347.8272249698639,
+          636.736687541008
+        ],
+        [
+          347.8272249698639,
+          645.536376953125
+        ],
+        [
+          306.59521484375,
+          645.8978823423386
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          37.07650564610958,
+          35.06889146566391
+        ],
+        [
+          81.92730170488358,
+          35.06889146566391
+        ],
+        [
+          81.92730170488358,
+          42.333150178194046
+        ],
+        [
+          37.07650564610958,
+          42.333150178194046
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          37.55388432741165,
+          35.19693811237812
+        ],
+        [
+          80.73213762044907,
+          35.19693811237812
+        ],
+        [
+          80.73213762044907,
+          42.5184258967638
+        ],
+        [
+          37.55388432741165,
+          42.5184258967638
+        ]
+      ]
+    },
+    {
+      "title": "O. Agboola et al. Results in Engineering 8 (2020) 100181",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          37.58112716674805,
+          35.7956367880106
+        ],
+        [
+          557.6580810546875,
+          34.2448555380106
+        ],
+        [
+          557.6580810546875,
+          43.078857421875
+        ],
+        [
+          37.58112716674805,
+          43.078857421875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          37.61098974943161,
+          34.72886831313372
+        ],
+        [
+          81.72929775714874,
+          34.72886831313372
+        ],
+        [
+          81.72929775714874,
+          42.748220674693584
+        ],
+        [
+          37.61098974943161,
+          42.748220674693584
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          90
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          233
+        ],
+        [
+          "Line",
+          79
+        ],
+        [
+          "Text",
+          17
+        ],
+        [
+          "Reference",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          278
+        ],
+        [
+          "Line",
+          92
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          236
+        ],
+        [
+          "Span",
+          222
+        ],
+        [
+          "Line",
+          95
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          224
+        ],
+        [
+          "TableCell",
+          180
+        ],
+        [
+          "Line",
+          99
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          628
+        ],
+        [
+          "Line",
+          281
+        ],
+        [
+          "TableCell",
+          76
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          296
+        ],
+        [
+          "Line",
+          132
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          312
+        ],
+        [
+          "Line",
+          132
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          412
+        ],
+        [
+          "Line",
+          171
+        ],
+        [
+          "TableCell",
+          60
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          228
+        ],
+        [
+          "Line",
+          89
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          66
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          527
+        ],
+        [
+          "Line",
+          131
+        ],
+        [
+          "TextInlineMath",
+          5
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          318
+        ],
+        [
+          "Line",
+          130
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          357
+        ],
+        [
+          "Line",
+          133
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          301
+        ],
+        [
+          "Line",
+          133
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          317
+        ],
+        [
+          "Line",
+          132
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          74
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          347
+        ],
+        [
+          "Line",
+          129
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          112
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Reference",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          643
+        ],
+        [
+          "Line",
+          172
+        ],
+        [
+          "ListItem",
+          62
+        ],
+        [
+          "Reference",
+          58
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          633
+        ],
+        [
+          "Line",
+          170
+        ],
+        [
+          "ListItem",
+          60
+        ],
+        [
+          "Reference",
+          57
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          573
+        ],
+        [
+          "Line",
+          163
+        ],
+        [
+          "ListItem",
+          54
+        ],
+        [
+          "Reference",
+          53
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          61
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Reference",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\A review on the impact of mining operation Monitoring, assessment and management_compressed"
+}
