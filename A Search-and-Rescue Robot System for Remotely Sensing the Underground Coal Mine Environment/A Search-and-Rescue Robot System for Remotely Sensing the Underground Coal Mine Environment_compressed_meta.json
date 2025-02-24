@@ -1,0 +1,1941 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Article\nA Search-and-Rescue Robot System for Remotely\nSensing the Underground Coal Mine Environment",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          75.83599853515625,
+          101.2525634765625
+        ],
+        [
+          495.8875699043274,
+          101.2525634765625
+        ],
+        [
+          494.7235074043274,
+          152.9984130859375
+        ],
+        [
+          75.83599853515625,
+          153.6172509789467
+        ]
+      ]
+    },
+    {
+      "title": "Jingchao Zhao 1,2 ID , Junyao Gao 1,3,*, Fangzhou Zhao 1,3 ID and Yi Liu 1,4 ID",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          76.34599304199219,
+          167.7928890287876
+        ],
+        [
+          417.0074152946472,
+          166.1483577787876
+        ],
+        [
+          415.8433527946472,
+          181.707763671875
+        ],
+        [
+          76.0136045217514,
+          182.04951652884483
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          76.53499603271484,
+          550.84053003788
+        ],
+        [
+          146.97014647722244,
+          549.19599878788
+        ],
+        [
+          145.80608397722244,
+          561.9328002929688
+        ],
+        [
+          76.53499603271484,
+          563.017529129982
+        ]
+      ]
+    },
+    {
+      "title": "2. Prior Works",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          75.79955244064331,
+          332.0566956996918
+        ],
+        [
+          142.11763322353363,
+          332.0566956996918
+        ],
+        [
+          142.11763322353363,
+          342.1028137207031
+        ],
+        [
+          75.79955244064331,
+          342.1028137207031
+        ]
+      ]
+    },
+    {
+      "title": "3. General Structure of MSRBOTS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          76.06175780296326,
+          326.7769614458084
+        ],
+        [
+          234.97859835624695,
+          326.7769614458084
+        ],
+        [
+          234.97859835624695,
+          337.0773138999939
+        ],
+        [
+          76.06175780296326,
+          337.0773138999939
+        ]
+      ]
+    },
+    {
+      "title": "3.1. The Robot Electric Box",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          75.7889484167099,
+          345.2671477794647
+        ],
+        [
+          187.43935585021973,
+          345.2671477794647
+        ],
+        [
+          187.43935585021973,
+          355.85821533203125
+        ],
+        [
+          75.7889484167099,
+          355.85821533203125
+        ]
+      ]
+    },
+    {
+      "title": "3.2. The Fiber-Optic Cable Box and OCU",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          76.53500366210938,
+          90.640625
+        ],
+        [
+          244.3037450313568,
+          89.09544652700424
+        ],
+        [
+          244.3037450313568,
+          100.60321044921875
+        ],
+        [
+          76.53500366210938,
+          100.60321044921875
+        ]
+      ]
+    },
+    {
+      "title": "3.3. The Traveling Subassemblies",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          76.53498840332031,
+          696.8506011962891
+        ],
+        [
+          210.43600237369537,
+          695.355219244957
+        ],
+        [
+          210.43600237369537,
+          706.8132019042969
+        ],
+        [
+          76.53498840332031,
+          706.8132019042969
+        ]
+      ]
+    },
+    {
+      "title": "3.4. The Mechanical Manipulator",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          76.53498840332031,
+          441.36060976982117
+        ],
+        [
+          212.6432912349701,
+          441.36060976982117
+        ],
+        [
+          212.6432912349701,
+          451.7362060546875
+        ],
+        [
+          76.53498840332031,
+          451.7362060546875
+        ]
+      ]
+    },
+    {
+      "title": "3.4.1. The Shoulder Joint of the Manipulator",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          75.28602105379105,
+          303.2155683040619
+        ],
+        [
+          270.2178955078125,
+          303.2155683040619
+        ],
+        [
+          270.2178955078125,
+          314.40704345703125
+        ],
+        [
+          75.28602105379105,
+          314.40704345703125
+        ]
+      ]
+    },
+    {
+      "title": "3.4.2. The Wrist Joint of the Manipulator",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          75.56384825706482,
+          229.60796457529068
+        ],
+        [
+          253.8857684135437,
+          229.60796457529068
+        ],
+        [
+          253.8857684135437,
+          241.1661376953125
+        ],
+        [
+          75.56384825706482,
+          241.1661376953125
+        ]
+      ]
+    },
+    {
+      "title": "3.4.3. The Scissors of the Manipulator",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          75.73357480764389,
+          476.26132893562317
+        ],
+        [
+          242.15235376358032,
+          476.26132893562317
+        ],
+        [
+          242.15235376358032,
+          487.819091796875
+        ],
+        [
+          75.73357480764389,
+          487.819091796875
+        ]
+      ]
+    },
+    {
+      "title": "4. The Explosion-Proof and Waterproof Design for MSRBOTS",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          76.53500366210938,
+          238.2028084397316
+        ],
+        [
+          359.95520877838135,
+          236.5582771897316
+        ],
+        [
+          358.79114627838135,
+          248.74871826171875
+        ],
+        [
+          75.7846410870552,
+          248.94089287519455
+        ]
+      ]
+    },
+    {
+      "title": "4.1. The Explosion-Proof Design for the Robot System",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          75.94316858053207,
+          375.58079010248184
+        ],
+        [
+          293.8193054199219,
+          373.93625885248184
+        ],
+        [
+          293.8193054199219,
+          385.938232421875
+        ],
+        [
+          75.94316858053207,
+          386.61422568559647
+        ]
+      ]
+    },
+    {
+      "title": "4.1.1. The Explosion-Proof Design of the Mechanical Structure",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          75.82364684343338,
+          472.41679549217224
+        ],
+        [
+          349.8698761463165,
+          470.77226424217224
+        ],
+        [
+          349.8698761463165,
+          482.8460998535156
+        ],
+        [
+          75.82364684343338,
+          483.4631793498993
+        ]
+      ]
+    },
+    {
+      "title": "4.1.2. The Explosion-Proof Design of the Electric System",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          75.68829011917114,
+          267.44189453125
+        ],
+        [
+          325.2168171405792,
+          267.44189453125
+        ],
+        [
+          325.2168171405792,
+          278.541015625
+        ],
+        [
+          75.68829011917114,
+          278.541015625
+        ]
+      ]
+    },
+    {
+      "title": "4.2. The Waterproof Design of the Robot",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          76.10050600767136,
+          499.1830371618271
+        ],
+        [
+          238.5368194580078,
+          499.1830371618271
+        ],
+        [
+          238.5368194580078,
+          510.20220947265625
+        ],
+        [
+          76.10050600767136,
+          510.20220947265625
+        ]
+      ]
+    },
+    {
+      "title": "5. The Control System of MSRBOTS",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          75.93654328584671,
+          636.4263668060303
+        ],
+        [
+          243.1793670654297,
+          636.4263668060303
+        ],
+        [
+          243.1793670654297,
+          647.5437927246094
+        ],
+        [
+          75.93654328584671,
+          647.5437927246094
+        ]
+      ]
+    },
+    {
+      "title": "5.1. The Electric System of MSRBOTS",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          75.82020097970963,
+          659.7272386550903
+        ],
+        [
+          236.98291873931885,
+          659.7272386550903
+        ],
+        [
+          236.98291873931885,
+          670.6812133789062
+        ],
+        [
+          75.82020097970963,
+          670.6812133789062
+        ]
+      ]
+    },
+    {
+      "title": "5.2. Human-Interaction",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          75.6228808760643,
+          305.4852051138878
+        ],
+        [
+          173.341552734375,
+          305.4852051138878
+        ],
+        [
+          173.341552734375,
+          316.106201171875
+        ],
+        [
+          75.6228808760643,
+          316.106201171875
+        ]
+      ]
+    },
+    {
+      "title": "5.2.1. Robot Localization in the Coal Mine",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          75.70791733264923,
+          510.16779124736786
+        ],
+        [
+          260.6537780761719,
+          510.16779124736786
+        ],
+        [
+          260.6537780761719,
+          521.089111328125
+        ],
+        [
+          75.70791733264923,
+          521.089111328125
+        ]
+      ]
+    },
+    {
+      "title": "5.2.2. The Manipulator Motion Method",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          75.83642673492432,
+          661.0014894008636
+        ],
+        [
+          249.2912952899933,
+          661.0014894008636
+        ],
+        [
+          249.2912952899933,
+          671.8640747070312
+        ],
+        [
+          75.83642673492432,
+          671.8640747070312
+        ]
+      ]
+    },
+    {
+      "title": "5.2.3. Robot Motion Method",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          75.60239219665527,
+          668.1004791259766
+        ],
+        [
+          201.29243850708008,
+          667.054406285286
+        ],
+        [
+          201.29243850708008,
+          678.0630798339844
+        ],
+        [
+          75.60239219665527,
+          678.8780881166458
+        ]
+      ]
+    },
+    {
+      "title": "6. Test and Experiment",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          76.53499603271484,
+          287.72613525390625
+        ],
+        [
+          180.94241070747375,
+          286.2025141119957
+        ],
+        [
+          180.0663299560547,
+          297.688720703125
+        ],
+        [
+          75.47887396812439,
+          297.84758001565933
+        ]
+      ]
+    },
+    {
+      "title": "6.1. Testing at the Center of National Safety Approval and Certification Center",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          75.83315849304199,
+          384.38763427734375
+        ],
+        [
+          393.46353363990784,
+          383.2290046811104
+        ],
+        [
+          393.46353363990784,
+          394.3502197265625
+        ],
+        [
+          75.83315849304199,
+          395.1114556193352
+        ]
+      ]
+    },
+    {
+      "title": "6.2. Experiments in Tashan Coal Mine of Datong Coal Mine Group",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          75.87985527515411,
+          465.15376698970795
+        ],
+        [
+          348.6897211074829,
+          465.15376698970795
+        ],
+        [
+          348.6897211074829,
+          476.11822509765625
+        ],
+        [
+          75.87985527515411,
+          476.11822509765625
+        ]
+      ]
+    },
+    {
+      "title": "6.3. Training in Rescue Training Scenes of the Datong Brigade of National Mine Emergency Rescue",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          76.36975407600403,
+          569.7806091308594
+        ],
+        [
+          477.3404846191406,
+          568.2951053380966
+        ],
+        [
+          477.3404846191406,
+          579.7431945800781
+        ],
+        [
+          76.36975407600403,
+          580.683091044426
+        ]
+      ]
+    },
+    {
+      "title": "6.4. Results and Discussion",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          75.94045984745026,
+          251.35752773284912
+        ],
+        [
+          188.86328125,
+          249.71299648284912
+        ],
+        [
+          188.86328125,
+          261.49517822265625
+        ],
+        [
+          74.77639734745026,
+          261.49517822265625
+        ]
+      ]
+    },
+    {
+      "title": "6.4.1. Testing, Experiments and Training Results",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          76.16643923521042,
+          274.622791826725
+        ],
+        [
+          288.2954885959625,
+          272.978260576725
+        ],
+        [
+          287.7818908691406,
+          284.8780517578125
+        ],
+        [
+          75.00237673521042,
+          285.1162140965462
+        ]
+      ]
+    },
+    {
+      "title": "6.4.2. Discussion",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          76.4873486161232,
+          425.3626149892807
+        ],
+        [
+          150.48587775230408,
+          423.7180837392807
+        ],
+        [
+          149.88963317871094,
+          435.6531066894531
+        ],
+        [
+          75.3232861161232,
+          436.0526703596115
+        ]
+      ]
+    },
+    {
+      "title": "7. Conclusions and Future Work",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          76.51503098011017,
+          522.1580440998077
+        ],
+        [
+          224.4597796201706,
+          520.5135128498077
+        ],
+        [
+          223.2957171201706,
+          532.2958068847656
+        ],
+        [
+          75.35096848011017,
+          533.2175769805908
+        ]
+      ]
+    },
+    {
+      "title": "7.1. Conclusions",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          76.495021879673,
+          544.726686000824
+        ],
+        [
+          144.64941054582596,
+          543.082154750824
+        ],
+        [
+          144.0216522216797,
+          555.4331970214844
+        ],
+        [
+          75.330959379673,
+          555.5797491073608
+        ]
+      ]
+    },
+    {
+      "title": "7.2. Future Work",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          76.49321013689041,
+          681.5465368032455
+        ],
+        [
+          148.39948719739914,
+          679.9020055532455
+        ],
+        [
+          147.23542469739914,
+          692.6991882324219
+        ],
+        [
+          75.32914763689041,
+          693.0800367593765
+        ]
+      ]
+    },
+    {
+      "title": "Abbreviations",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          75.6172325015068,
+          252.681614279747
+        ],
+        [
+          143.35472494363785,
+          252.681614279747
+        ],
+        [
+          143.35472494363785,
+          264.88372802734375
+        ],
+        [
+          75.6172325015068,
+          264.88372802734375
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          75.94985604286194,
+          601.7839607000351
+        ],
+        [
+          128.30371618270874,
+          600.1394294500351
+        ],
+        [
+          128.30371618270874,
+          612.7337951660156
+        ],
+        [
+          75.94985604286194,
+          613.7013920545578
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          129
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          108
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          146
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          108
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          173
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          187
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          154
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "TableCell",
+          30
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          84
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          108
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          204
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Reference",
+          4
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          155
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          224
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          106
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "TableCell",
+          32
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          110
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          218
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "ListItem",
+          29
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Reference",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          239
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "ListItem",
+          17
+        ],
+        [
+          "Reference",
+          15
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\A Search-and-Rescue Robot System for Remotely Sensing the Underground Coal Mine Environment_compressed"
+}
